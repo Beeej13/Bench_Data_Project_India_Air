@@ -8,13 +8,20 @@ Due to the recent success of the JWC and Xander Talent HR collaboration, JWC has
 
 As manager of the team, you will be given free rein on how many new employees you want to hire and which roles you decide to bring into the company. However, before the team is signed off, you will need to present to your director the various roles you want to introduce into the department and why these decisions have been made. 
 
-## Part Two
+## Part Two A
 
-With the successful launch of your Analytics team, you and your team have been given your first assignment. You have obtained a large dataset containing information on the past 5 years of the air quality of India, specifically Andhra Pradesh. JWC want you to drill-down and assess the severity of the situation. They want to find out the current state of the various cities and the certain challenges they may face. You are also expected to investigate if this lifestyle is sustainable going forward. What changes may need to be made to reverse the negative impact India is facing with its air quality crisis.
+With the successful launch of your Analytics team, you and your team have been given your first assignment. You have obtained a large dataset containing information on the past 25 years of the air quality of India, specifically Andhra Pradesh. JWC want you to drill-down and assess the severity of the situation. They want to find out the current state of the various cities and the certain challenges they may face. You are also expected to investigate if this lifestyle is sustainable going forward. What changes may need to be made to reverse the negative impact India is facing with its air quality crisis.
 
-Data Analyst/Business Change – You will be required to report your findings to the team. Use the data to convey the gravity of what is happening over time. These results will 
+Data Analyst/Business Change – You will be required to report your findings to the team. Use the data to convey the gravity of what is happening over time. 
 
-Data Science/Engineer – You will be required to model the future state of Andhra Pradesh over the next 10 years. Using this or another model, determine which point in time will be the point of no return? 
+Data Science/Engineer – You will be required to model the future state of Andhra Pradesh over the next 10 years. Using this or another model, determine which point in time will be the point of no return?
+
+## Part Two B 
+
+Data Science: In light of your recent findings, there doesn’t appear to be a concrete point in time where the quality is unrecoverable. Nonetheless, construct your model(s) based on what you expect the air quality to be like in Andhra Pradesh 25 years from now.
+
+Data Analysis: You have been tasked to do further research on the macro state pollutants in India. Using your existent findings, highlights areas/states that are showing improvements (2A) and areas that are in decline. Highlight the top 5 and bottom 5 areas bases on these findings. As consultants, you are responsible for illuminating the data. You can use external resources to corroborate your arguments. This won’t require the modelling, but you will still need to provide a concise argument.
+
 
 ## Tips
 ### Requirements Gathering
